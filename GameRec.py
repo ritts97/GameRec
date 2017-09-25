@@ -11,7 +11,7 @@ class AutoVivification(dict):
 
 def main():
     dataset = AutoVivification()
-    filename = '/Users/ritwikaghosh/Downloads/ugr.csv'
+    filename = 'usersnratings.csv'
     with open(filename, 'r') as f:
         reader = csv.reader(f, delimiter=',')
         next(reader)

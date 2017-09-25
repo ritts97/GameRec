@@ -1,0 +1,885 @@
+User,Game,Ratings
+User 1,Counter Strike,5
+User 1,Half-Life,2
+User 1,Counter Strike : Condition Zero,5
+User 1,Counter Strike : Source,5
+User 1,Half-Life : Source,2
+User 1,Counter Strike : Global Offensive,5
+User 2,Counter Strike,5
+User 2,Team Fortress Classic,3
+User 2,Half-Life : Opposing Force,3
+User 2,Half-Life,3
+User 2,Counter Strike : Condition Zero,5
+User 2,Half-Life : Blue Shift,3
+User 2,Half-Life 2,3
+User 2,Counter Strike : Source,4
+User 2,Half-Life : Source,3
+User 2,Half-Life 2 : Death Match,3
+User 2,Half-Life 2 : Lost Coast,4
+User 2,Left 4 Dead,5
+User 2,Left 4 Dead 2,5
+User 2,Counter Strike : Global Offensive,5
+User 2,Jagged Alliance 2,3
+User 2,Disciples II: Rise of the Elves,5
+User 2,Disciples II: Gallean's Return,3
+User 2,Iron Warriors: T-72 Tank Command,2
+User 3,Counter Strike,5
+User 3,Half-Life : Opposing Force,5
+User 3,Half-Life,4
+User 3,Counter Strike : Condition Zero,5
+User 3,Half-Life : Blue Shift,5
+User 3,Half-Life 2,5
+User 3,Counter Strike : Source,5
+User 3,Half-Life : Source,5
+User 3,Half-Life 2 : Death Match,3
+User 3,Half-Life 2 : Lost Coast,3
+User 3,Half-Life 2 : Episode 1,4
+User 3,Half-Life 2 : Episode 2,3
+User 3,Dota 2,5
+User 3,Portal 2,1
+User 3,Counter Strike : Global Offensive,5
+User 3,Space Empires IV Deluxe,3
+User 3,Jagged Alliance 2,2
+User 3,Disciples II: Gallean's Return,3
+User 3,DEFCON,5
+User 4,Counter Strike,5
+User 4,Day of Defeat,4
+User 4,Deathmatch Classic,4
+User 4,Counter Strike : Condition Zero,5
+User 4,Counter Strike : Source,5
+User 4,Day of Defeat : Source,4
+User 4,Dota 2,5
+User 4,Counter Strike : Global Offensive,5
+User 4,Iron Warriors: T-72 Tank Command,4
+User 5,Counter Strike,5
+User 5,Counter Strike : Condition Zero,4
+User 5,Counter Strike : Source,3
+User 5,Portal,5
+User 5,Team Fortress 2,5
+User 5,Dota 2,4
+User 5,Portal 2,5
+User 5,Counter Strike : Global Offensive,5
+User 6,Counter Strike,5
+User 6,Team Fortress Classic,4
+User 6,Deathmatch Classic,4
+User 6,Half-Life : Opposing Force,4
+User 6,Half-Life,4
+User 6,Counter Strike : Condition Zero,4
+User 6,Half-Life : Blue Shift,3
+User 6,Half-Life 2,4
+User 6,Counter Strike : Source,3
+User 6,Half-Life : Source,4
+User 6,Half-Life 2 : Death Match,4
+User 6,Half-Life 2 : Lost Coast,4
+User 6,Half-Life 2 : Episode 1,4
+User 6,Half-Life 2 : Episode 2,4
+User 6,Portal,3
+User 6,Team Fortress 2,5
+User 6,Left 4 Dead,4
+User 6,Left 4 Dead 2,5
+User 6,Dota 2,5
+User 6,Portal 2,4
+User 6,Alien Swarm,3
+User 6,Counter Strike : Global Offensive,5
+User 6,SiN Episodes: Emergence,4
+User 6,Darwinia,3
+User 6,Uplink,3
+User 6,DEFCON,4
+User 6,Dangerous Waters,4
+User 6,Space Empires IV Deluxe,4
+User 6,Disciples II: Rise of the Elves,4
+User 6,Disciples II: Gallean's Return,5
+User 7,Counter Strike,5
+User 7,Team Fortress Classic,2
+User 7,Day of Defeat,2
+User 7,Deathmatch Classic,3
+User 7,Half-Life : Opposing Force,3
+User 7,Ricochet,1
+User 7,Half-Life,4
+User 7,Counter Strike : Condition Zero,5
+User 7,Half-Life : Blue Shift,5
+User 7,Half-Life 2,5
+User 7,Counter Strike : Source,5
+User 7,Half-Life : Source,5
+User 7,Day of Defeat : Source,3
+User 7,Half-Life 2 : Death Match,4
+User 7,Half-Life 2 : Lost Coast,3
+User 7,Half-Life 2 : Episode 1,4
+User 7,Half-Life 2 : Episode 2,3
+User 7,Portal,3
+User 7,Team Fortress 2,2
+User 7,Left 4 Dead,4
+User 7,Left 4 Dead 2,4
+User 7,Dota 2,5
+User 7,Portal 2,3
+User 7,Alien Swarm,3
+User 7,Counter Strike : Global Offensive,5
+User 7,Disciples II: Rise of the Elves,2
+User 8,Counter Strike,4
+User 8,Deathmatch Classic,4
+User 8,Half-Life : Opposing Force,3
+User 8,Ricochet,1
+User 8,Half-Life,4
+User 8,Counter Strike : Condition Zero,4
+User 8,Half-Life : Blue Shift,3
+User 8,Half-Life 2,4
+User 8,Counter Strike : Source,4
+User 8,Half-Life : Source,2
+User 8,Half-Life 2 : Death Match,3
+User 8,Half-Life 2 : Lost Coast,3
+User 8,Half-Life 2 : Episode 1,3
+User 8,Half-Life 2 : Episode 2,3
+User 8,Portal,5
+User 8,Dota 2,5
+User 8,Portal 2,4
+User 8,Counter Strike : Global Offensive,5
+User 8,Killing Floor,5
+User 9,Counter Strike,5
+User 9,Half-Life 2,5
+User 9,Counter Strike : Source,4
+User 9,Portal,4
+User 9,Team Fortress 2,5
+User 9,Left 4 Dead,5
+User 9,Left 4 Dead 2,5
+User 9,Dota 2,4
+User 9,Portal 2,5
+User 9,Counter Strike : Global Offensive,5
+User 9,Killing Floor,3
+User 10,Counter Strike,1
+User 10,Team Fortress Classic,3
+User 10,Day of Defeat,2
+User 10,Deathmatch Classic,4
+User 10,Half-Life : Opposing Force,3
+User 10,Ricochet,3
+User 10,Half-Life,2
+User 10,Counter Strike : Condition Zero,2
+User 10,Half-Life : Blue Shift,2
+User 10,Day of Defeat : Source,2
+User 10,Half-Life 2 : Death Match,1
+User 10,Half-Life 2 : Lost Coast,1
+User 10,Half-Life 2 : Episode 1,1
+User 10,Half-Life 2 : Episode 2,1
+User 10,Portal,1
+User 10,Team Fortress 2,3
+User 10,Left 4 Dead,4
+User 10,Left 4 Dead 2,4
+User 10,Dota 2,4
+User 10,Portal 2,3
+User 10,Counter Strike : Global Offensive,2
+User 10,Uplink,1
+User 10,Multiwinia,2
+User 10,Dangerous Waters,2
+User 11,Counter Strike,4
+User 11,Half-Life : Opposing Force,4
+User 11,Half-Life,5
+User 11,Counter Strike : Condition Zero,2
+User 11,Half-Life : Blue Shift,4
+User 11,Half-Life 2,5
+User 11,Counter Strike : Source,4
+User 11,Half-Life : Source,4
+User 11,Half-Life 2 : Death Match,4
+User 11,Half-Life 2 : Lost Coast,4
+User 11,Half-Life 2 : Episode 1,4
+User 11,Half-Life 2 : Episode 2,5
+User 11,Portal,5
+User 11,Dota 2,5
+User 11,Portal 2,5
+User 11,Counter Strike : Global Offensive,4
+User 11,Space Empires IV Deluxe,3
+User 11,Disciples II: Rise of the Elves,2
+User 11,Disciples II: Gallean's Return,2
+User 12,Portal,4
+User 12,Left 4 Dead 2,4
+User 12,Portal 2,4
+User 12,Counter Strike : Global Offensive,2
+User 12,Red Orchestra: Ostfront 41-45,3
+User 13,Counter Strike,5
+User 13,Half-Life,3
+User 13,Counter Strike : Condition Zero,4
+User 13,Half-Life 2,4
+User 13,Counter Strike : Source,2
+User 13,Half-Life 2 : Episode 1,2
+User 13,Half-Life 2 : Episode 2,3
+User 13,Dota 2,5
+User 13,Counter Strike : Global Offensive,5
+User 14,Counter Strike,4
+User 14,Counter Strike : Condition Zero,2
+User 14,Counter Strike : Source,4
+User 14,Team Fortress 2,4
+User 14,Left 4 Dead,3
+User 14,Left 4 Dead 2,3
+User 14,Dota 2,5
+User 14,Counter Strike : Global Offensive,3
+User 15,Counter Strike,5
+User 15,Deathmatch Classic,4
+User 15,Half-Life : Opposing Force,2
+User 15,Counter Strike : Condition Zero,4
+User 15,Counter Strike : Source,3
+User 15,Portal,3
+User 15,Left 4 Dead,3
+User 15,Left 4 Dead 2,3
+User 15,Dota 2,4
+User 15,Counter Strike : Global Offensive,5
+User 15,Multiwinia,2
+User 15,Space Empires IV Deluxe,3
+User 16,Counter Strike,4
+User 16,Half-Life : Opposing Force,4
+User 16,Half-Life,5
+User 16,Counter Strike : Condition Zero,2
+User 16,Half-Life : Blue Shift,3
+User 16,Half-Life 2,5
+User 16,Counter Strike : Source,3
+User 16,Half-Life : Source,2
+User 16,Half-Life 2 : Death Match,4
+User 16,Portal,5
+User 16,Dota 2,4
+User 16,Portal 2,5
+User 16,Counter Strike : Global Offensive,5
+User 17,Counter Strike,2
+User 17,Counter Strike : Condition Zero,3
+User 17,Left 4 Dead,3
+User 17,Dota 2,3
+User 18,Counter Strike,3
+User 18,Counter Strike : Condition Zero,3
+User 18,Counter Strike : Source,3
+User 18,Team Fortress 2,3
+User 18,Dota 2,3
+User 18,Counter Strike : Global Offensive,3
+User 19,Counter Strike,5
+User 19,Half-Life,2
+User 19,Counter Strike : Condition Zero,3
+User 19,Half-Life 2,3
+User 19,Counter Strike : Source,4
+User 19,Half-Life : Source,3
+User 19,Half-Life 2 : Death Match,3
+User 19,Half-Life 2 : Lost Coast,3
+User 19,Half-Life 2 : Episode 1,3
+User 19,Half-Life 2 : Episode 2,3
+User 19,Portal,3
+User 19,Team Fortress 2,2
+User 19,Left 4 Dead,4
+User 19,Left 4 Dead 2,4
+User 19,Dota 2,5
+User 19,Portal 2,3
+User 19,Counter Strike : Global Offensive,5
+User 19,Killing Floor,2
+User 20,Counter Strike,5
+User 20,Day of Defeat,3
+User 20,Ricochet,2
+User 20,Half-Life,2
+User 20,Counter Strike : Condition Zero,5
+User 20,Half-Life : Blue Shift,2
+User 20,Half-Life 2,3
+User 20,Counter Strike : Source,4
+User 20,Half-Life : Source,4
+User 20,Day of Defeat : Source,3
+User 20,Half-Life 2 : Death Match,2
+User 20,Half-Life 2 : Lost Coast,2
+User 20,Half-Life 2 : Episode 1,3
+User 20,Half-Life 2 : Episode 2,4
+User 20,Portal,3
+User 20,Team Fortress 2,3
+User 20,Left 4 Dead,3
+User 20,Left 4 Dead 2,2
+User 20,Dota 2,5
+User 20,Portal 2,5
+User 20,Alien Swarm,5
+User 20,Counter Strike : Global Offensive,5
+User 20,Darwinia,5
+User 20,Uplink,5
+User 20,DEFCON,3
+User 20,Multiwinia,3
+User 20,Dangerous Waters,4
+User 20,Disciples II: Gallean's Return,4
+User 21,Counter Strike,5
+User 21,Team Fortress Classic,5
+User 21,Day of Defeat,4
+User 21,Deathmatch Classic,4
+User 21,Half-Life : Opposing Force,4
+User 21,Ricochet,3
+User 21,Half-Life,5
+User 21,Counter Strike : Condition Zero,4
+User 21,Half-Life : Blue Shift,5
+User 21,Half-Life 2,5
+User 21,Counter Strike : Source,5
+User 21,Half-Life : Source,4
+User 21,Day of Defeat : Source,3
+User 21,Half-Life 2 : Death Match,4
+User 21,Half-Life 2 : Lost Coast,4
+User 21,Half-Life 2 : Episode 1,5
+User 21,Half-Life 2 : Episode 2,5
+User 21,Portal,5
+User 21,Team Fortress 2,5
+User 21,Left 4 Dead,5
+User 21,Left 4 Dead 2,5
+User 21,Dota 2,5
+User 21,Portal 2,5
+User 21,Alien Swarm,3
+User 21,Counter Strike : Global Offensive,5
+User 21,Red Orchestra: Ostfront 41-45,3
+User 21,Killing Floor,5
+User 21,Uplink,1
+User 21,DEFCON,2
+User 21,Space Empires IV Deluxe,2
+User 21,Jagged Alliance 2,1
+User 22,Counter Strike,5
+User 22,Team Fortress Classic,3
+User 22,Day of Defeat,3
+User 22,Deathmatch Classic,5
+User 22,Half-Life : Opposing Force,4
+User 22,Half-Life,4
+User 22,Counter Strike : Condition Zero,5
+User 22,Half-Life : Blue Shift,4
+User 22,Half-Life 2,4
+User 22,Counter Strike : Source,4
+User 22,Half-Life : Source,3
+User 22,Day of Defeat : Source,3
+User 22,Half-Life 2 : Death Match,3
+User 22,Half-Life 2 : Lost Coast,3
+User 22,Half-Life 2 : Episode 1,2
+User 22,Half-Life 2 : Episode 2,4
+User 22,Team Fortress 2,3
+User 22,Dota 2,5
+User 22,Alien Swarm,4
+User 22,Counter Strike : Global Offensive,5
+User 22,Killing Floor,4
+User 22,SiN Episodes: Emergence,3
+User 22,Disciples II: Rise of the Elves,4
+User 22,Disciples II: Gallean's Return,4
+User 22,Iron Warriors: T-72 Tank Command,3
+User 23,Counter Strike,5
+User 23,Half-Life,2
+User 23,Counter Strike : Condition Zero,4
+User 23,Half-Life 2,1
+User 23,Counter Strike : Source,5
+User 23,Team Fortress 2,5
+User 23,Left 4 Dead 2,5
+User 23,Dota 2,4
+User 24,Counter Strike,3
+User 24,Half-Life,3
+User 24,Counter Strike : Condition Zero,3
+User 24,Half-Life 2,2
+User 24,Counter Strike : Source,3
+User 24,Half-Life 2 : Episode 1,3
+User 24,Half-Life 2 : Episode 2,3
+User 24,Portal,4
+User 24,Portal 2,4
+User 24,Counter Strike : Global Offensive,3
+User 25,Counter Strike,5
+User 25,Team Fortress Classic,4
+User 25,Day of Defeat,4
+User 25,Deathmatch Classic,2
+User 25,Ricochet,3
+User 25,Half-Life,4
+User 25,Counter Strike : Condition Zero,3
+User 25,Half-Life : Blue Shift,2
+User 25,Half-Life 2,5
+User 25,Counter Strike : Source,1
+User 25,Half-Life : Source,2
+User 25,Day of Defeat : Source,3
+User 25,Half-Life 2 : Death Match,4
+User 25,Portal,3
+User 25,Team Fortress 2,5
+User 25,Left 4 Dead,5
+User 25,Left 4 Dead 2,5
+User 25,Dota 2,5
+User 25,Portal 2,5
+User 25,Alien Swarm,3
+User 25,Counter Strike : Global Offensive,3
+User 25,Killing Floor,3
+User 25,Space Empires IV Deluxe,3
+User 26,Counter Strike,3
+User 26,Half-Life : Opposing Force,4
+User 26,Ricochet,5
+User 26,Half-Life,5
+User 26,Counter Strike : Condition Zero,4
+User 26,Half-Life : Blue Shift,3
+User 26,Half-Life 2,5
+User 26,Counter Strike : Source,1
+User 26,Half-Life : Source,1
+User 26,Half-Life 2 : Death Match,4
+User 26,Half-Life 2 : Lost Coast,3
+User 26,Half-Life 2 : Episode 1,3
+User 26,Half-Life 2 : Episode 2,3
+User 26,Portal,4
+User 26,Left 4 Dead,2
+User 26,Left 4 Dead 2,2
+User 26,Dota 2,5
+User 26,Portal 2,3
+User 26,Counter Strike : Global Offensive,4
+User 26,Dangerous Waters,3
+User 26,Jagged Alliance 2,3
+User 26,Disciples II: Rise of the Elves,3
+User 26,Disciples II: Gallean's Return,3
+User 27,Counter Strike,2
+User 28,Counter Strike,4
+User 28,Counter Strike : Condition Zero,5
+User 28,Half-Life 2,5
+User 28,Counter Strike : Source,4
+User 28,Half-Life 2 : Death Match,5
+User 28,Half-Life 2 : Episode 1,5
+User 28,Half-Life 2 : Episode 2,5
+User 28,Portal,5
+User 28,Team Fortress 2,4
+User 28,Left 4 Dead,5
+User 28,Left 4 Dead 2,5
+User 28,Dota 2,5
+User 28,Portal 2,5
+User 28,Counter Strike : Global Offensive,5
+User 28,Killing Floor,3
+User 29,Counter Strike,4
+User 29,Counter Strike : Global Offensive,5
+User 30,Counter Strike,4
+User 30,Deathmatch Classic,3
+User 30,Half-Life : Opposing Force,4
+User 30,Half-Life,5
+User 30,Counter Strike : Condition Zero,4
+User 30,Half-Life : Blue Shift,5
+User 30,Half-Life 2,4
+User 30,Counter Strike : Source,3
+User 30,Half-Life : Source,3
+User 30,Day of Defeat : Source,4
+User 30,Half-Life 2 : Death Match,3
+User 30,Half-Life 2 : Lost Coast,3
+User 30,Half-Life 2 : Episode 1,3
+User 30,Half-Life 2 : Episode 2,3
+User 30,Left 4 Dead,5
+User 30,Left 4 Dead 2,5
+User 30,Dota 2,2
+User 30,Counter Strike : Global Offensive,4
+User 30,Killing Floor,3
+User 30,Darwinia,3
+User 30,Uplink,4
+User 30,DEFCON,4
+User 30,Multiwinia,3
+User 30,Dangerous Waters,3
+User 30,Space Empires IV Deluxe,4
+User 30,Jagged Alliance 2,3
+User 30,Disciples II: Rise of the Elves,3
+User 31,Counter Strike,4
+User 31,Deathmatch Classic,4
+User 31,Half-Life,4
+User 31,Counter Strike : Condition Zero,5
+User 31,Half-Life : Blue Shift,4
+User 31,Half-Life 2,4
+User 31,Counter Strike : Source,5
+User 31,Half-Life : Source,4
+User 31,Half-Life 2 : Death Match,4
+User 31,Half-Life 2 : Lost Coast,4
+User 31,Half-Life 2 : Episode 1,4
+User 31,Half-Life 2 : Episode 2,4
+User 31,Left 4 Dead,3
+User 31,Left 4 Dead 2,3
+User 31,Dota 2,4
+User 31,Counter Strike : Global Offensive,4
+User 32,Counter Strike,3
+User 33,Counter Strike,3
+User 33,Team Fortress Classic,4
+User 33,Team Fortress 2,4
+User 33,Left 4 Dead,2
+User 33,Left 4 Dead 2,2
+User 33,Counter Strike : Global Offensive,3
+User 34,Counter Strike,1
+User 34,Team Fortress Classic,3
+User 34,Day of Defeat,1
+User 34,Deathmatch Classic,2
+User 34,Half-Life : Opposing Force,2
+User 34,Ricochet,2
+User 34,Half-Life,3
+User 34,Counter Strike : Condition Zero,1
+User 34,Half-Life : Blue Shift,2
+User 34,Half-Life 2,3
+User 34,Counter Strike : Source,3
+User 34,Half-Life : Source,2
+User 34,Day of Defeat : Source,2
+User 34,Half-Life 2 : Death Match,1
+User 34,Half-Life 2 : Lost Coast,2
+User 34,Half-Life 2 : Episode 1,2
+User 34,Half-Life 2 : Episode 2,3
+User 34,Portal,4
+User 34,Team Fortress 2,3
+User 34,Left 4 Dead,3
+User 34,Left 4 Dead 2,1
+User 34,Dota 2,1
+User 34,Portal 2,3
+User 34,Alien Swarm,1
+User 34,Counter Strike : Global Offensive,1
+User 34,Rag Doll Kunf Fu,2
+User 34,Red Orchestra: Ostfront 41-45,1
+User 34,Killing Floor,2
+User 34,SiN Episodes: Emergence,1
+User 34,Darwinia,3
+User 34,Uplink,2
+User 34,DEFCON,2
+User 34,Dangerous Waters,1
+User 34,Space Empires IV Deluxe,2
+User 34,Jagged Alliance 2,2
+User 34,Disciples II: Rise of the Elves,2
+User 34,Disciples II: Gallean's Return,1
+User 34,Iron Warriors: T-72 Tank Command,2
+User 35,Counter Strike,4
+User 35,Half-Life : Opposing Force,3
+User 35,Half-Life,5
+User 35,Counter Strike : Condition Zero,4
+User 35,Half-Life 2,5
+User 35,Half-Life 2 : Episode 1,5
+User 35,Half-Life 2 : Episode 2,5
+User 35,Portal,5
+User 35,Team Fortress 2,4
+User 35,Left 4 Dead,5
+User 35,Left 4 Dead 2,5
+User 35,Portal 2,5
+User 36,Counter Strike,5
+User 36,Counter Strike : Condition Zero,4
+User 36,Half-Life 2,4
+User 36,Counter Strike : Source,4
+User 36,Half-Life : Source,4
+User 36,Left 4 Dead 2,4
+User 36,Dota 2,5
+User 36,Portal 2,3
+User 36,Counter Strike : Global Offensive,5
+User 37,Counter Strike,4
+User 37,Team Fortress Classic,3
+User 37,Half-Life : Opposing Force,3
+User 37,Ricochet,3
+User 37,Half-Life,5
+User 37,Counter Strike : Condition Zero,5
+User 37,Half-Life : Blue Shift,3
+User 37,Half-Life 2,5
+User 37,Counter Strike : Source,5
+User 37,Half-Life : Source,4
+User 37,Day of Defeat : Source,4
+User 37,Half-Life 2 : Death Match,5
+User 37,Half-Life 2 : Lost Coast,2
+User 37,Half-Life 2 : Episode 1,5
+User 37,Half-Life 2 : Episode 2,5
+User 37,Portal,5
+User 37,Team Fortress 2,4
+User 37,Left 4 Dead,5
+User 37,Left 4 Dead 2,5
+User 37,Dota 2,4
+User 37,Portal 2,5
+User 37,Alien Swarm,1
+User 37,Counter Strike : Global Offensive,3
+User 37,Rag Doll Kunf Fu,3
+User 37,Red Orchestra: Ostfront 41-45,2
+User 37,Killing Floor,2
+User 37,SiN Episodes: Emergence,3
+User 37,Darwinia,2
+User 37,Uplink,3
+User 37,DEFCON,3
+User 37,Multiwinia,3
+User 37,Dangerous Waters,3
+User 37,Space Empires IV Deluxe,3
+User 37,Jagged Alliance 2,4
+User 37,Disciples II: Rise of the Elves,2
+User 37,Disciples II: Gallean's Return,3
+User 37,Iron Warriors: T-72 Tank Command,3
+User 38,Counter Strike,3
+User 38,Team Fortress Classic,4
+User 38,Day of Defeat,2
+User 38,Deathmatch Classic,4
+User 38,Half-Life : Opposing Force,2
+User 38,Ricochet,3
+User 38,Half-Life,1
+User 38,Counter Strike : Condition Zero,3
+User 38,Half-Life : Blue Shift,2
+User 38,Half-Life 2,4
+User 38,Counter Strike : Source,1
+User 38,Half-Life : Source,4
+User 38,Day of Defeat : Source,2
+User 38,Half-Life 2 : Death Match,3
+User 38,Half-Life 2 : Lost Coast,2
+User 38,Left 4 Dead,3
+User 38,Left 4 Dead 2,4
+User 38,Dota 2,2
+User 38,Portal 2,4
+User 38,Alien Swarm,4
+User 38,Counter Strike : Global Offensive,3
+User 38,Rag Doll Kunf Fu,4
+User 38,SiN Episodes: Emergence,4
+User 38,Darwinia,3
+User 38,Uplink,4
+User 38,DEFCON,3
+User 38,Multiwinia,4
+User 38,Dangerous Waters,4
+User 38,Space Empires IV Deluxe,2
+User 38,Jagged Alliance 2,2
+User 38,Disciples II: Rise of the Elves,3
+User 38,Disciples II: Gallean's Return,1
+User 38,Iron Warriors: T-72 Tank Command,3
+User 39,Counter Strike,3
+User 39,Team Fortress Classic,1
+User 39,Half-Life : Opposing Force,2
+User 39,Half-Life,3
+User 39,Counter Strike : Condition Zero,4
+User 39,Half-Life : Blue Shift,4
+User 39,Half-Life 2,2
+User 39,Counter Strike : Source,4
+User 39,Half-Life : Source,2
+User 39,Day of Defeat : Source,3
+User 39,Half-Life 2 : Death Match,1
+User 39,Half-Life 2 : Lost Coast,3
+User 39,Half-Life 2 : Episode 1,3
+User 39,Half-Life 2 : Episode 2,3
+User 39,Portal,3
+User 39,Team Fortress 2,4
+User 39,Left 4 Dead,3
+User 39,Left 4 Dead 2,3
+User 39,Dota 2,3
+User 39,Portal 2,4
+User 39,Alien Swarm,4
+User 39,Counter Strike : Global Offensive,5
+User 39,Rag Doll Kunf Fu,3
+User 39,Red Orchestra: Ostfront 41-45,4
+User 39,Killing Floor,4
+User 39,SiN Episodes: Emergence,3
+User 39,Darwinia,4
+User 39,Uplink,4
+User 39,DEFCON,4
+User 39,Multiwinia,2
+User 39,Dangerous Waters,2
+User 39,Space Empires IV Deluxe,3
+User 39,Jagged Alliance 2,3
+User 39,Disciples II: Rise of the Elves,3
+User 39,Disciples II: Gallean's Return,4
+User 39,Iron Warriors: T-72 Tank Command,4
+User 40,Counter Strike,4
+User 40,Team Fortress Classic,3
+User 40,Day of Defeat,3
+User 40,Deathmatch Classic,2
+User 40,Half-Life,5
+User 40,Half-Life : Blue Shift,4
+User 40,Half-Life 2,5
+User 40,Counter Strike : Source,4
+User 40,Half-Life : Source,3
+User 40,Day of Defeat : Source,4
+User 40,Half-Life 2 : Death Match,2
+User 40,Half-Life 2 : Lost Coast,4
+User 40,Half-Life 2 : Episode 1,5
+User 40,Half-Life 2 : Episode 2,5
+User 40,Portal,5
+User 40,Team Fortress 2,3
+User 40,Left 4 Dead,4
+User 40,Left 4 Dead 2,4
+User 40,Dota 2,4
+User 40,Portal 2,5
+User 40,Killing Floor,2
+User 40,Dangerous Waters,3
+User 41,Counter Strike,5
+User 41,Day of Defeat,2
+User 41,Deathmatch Classic,3
+User 41,Half-Life : Opposing Force,3
+User 41,Half-Life,4
+User 41,Half-Life 2,5
+User 41,Counter Strike : Source,5
+User 41,Half-Life : Source,3
+User 41,Day of Defeat : Source,1
+User 41,Half-Life 2 : Death Match,1
+User 41,Half-Life 2 : Lost Coast,1
+User 41,Half-Life 2 : Episode 1,4
+User 41,Half-Life 2 : Episode 2,3
+User 41,Left 4 Dead 2,5
+User 41,Dota 2,4
+User 41,Portal 2,2
+User 41,Alien Swarm,4
+User 41,Counter Strike : Global Offensive,5
+User 41,Rag Doll Kunf Fu,3
+User 41,Red Orchestra: Ostfront 41-45,3
+User 41,Killing Floor,5
+User 41,SiN Episodes: Emergence,3
+User 41,Space Empires IV Deluxe,1
+User 41,Iron Warriors: T-72 Tank Command,2
+User 42,Counter Strike,5
+User 42,Team Fortress Classic,3
+User 42,Day of Defeat,2
+User 42,Deathmatch Classic,1
+User 42,Half-Life : Opposing Force,3
+User 42,Ricochet,3
+User 42,Half-Life,4
+User 42,Counter Strike : Condition Zero,5
+User 42,Half-Life : Blue Shift,3
+User 42,Half-Life 2,3
+User 42,Counter Strike : Source,5
+User 42,Half-Life : Source,3
+User 42,Day of Defeat : Source,3
+User 42,Half-Life 2 : Death Match,3
+User 42,Half-Life 2 : Lost Coast,3
+User 42,Half-Life 2 : Episode 1,3
+User 42,Half-Life 2 : Episode 2,3
+User 42,Portal,4
+User 42,Team Fortress 2,2
+User 42,Left 4 Dead,4
+User 42,Left 4 Dead 2,4
+User 42,Dota 2,1
+User 42,Portal 2,4
+User 42,Alien Swarm,2
+User 42,Counter Strike : Global Offensive,5
+User 42,Rag Doll Kunf Fu,3
+User 42,Red Orchestra: Ostfront 41-45,2
+User 42,Killing Floor,3
+User 42,SiN Episodes: Emergence,3
+User 42,Darwinia,1
+User 42,Uplink,1
+User 42,DEFCON,2
+User 42,Multiwinia,2
+User 42,Dangerous Waters,2
+User 42,Space Empires IV Deluxe,2
+User 42,Jagged Alliance 2,2
+User 42,Disciples II: Rise of the Elves,3
+User 42,Disciples II: Gallean's Return,3
+User 42,Iron Warriors: T-72 Tank Command,3
+User 43,Counter Strike,2
+User 43,Counter Strike : Condition Zero,3
+User 43,Counter Strike : Global Offensive,3
+User 44,Counter Strike,4
+User 44,Counter Strike : Condition Zero,4
+User 45,Counter Strike,4
+User 45,Deathmatch Classic,3
+User 45,Counter Strike : Condition Zero,3
+User 45,Counter Strike : Source,2
+User 45,Counter Strike : Global Offensive,4
+User 45,Iron Warriors: T-72 Tank Command,4
+User 46,Counter Strike,2
+User 46,Team Fortress Classic,3
+User 46,Deathmatch Classic,2
+User 46,Half-Life : Opposing Force,3
+User 46,Ricochet,4
+User 46,Half-Life,5
+User 46,Counter Strike : Condition Zero,3
+User 46,Half-Life 2,3
+User 46,Half-Life : Source,4
+User 46,Half-Life 2 : Lost Coast,3
+User 46,Half-Life 2 : Episode 1,5
+User 46,Half-Life 2 : Episode 2,4
+User 46,Portal,5
+User 46,Team Fortress 2,4
+User 46,Dota 2,3
+User 46,Portal 2,5
+User 46,Alien Swarm,4
+User 46,Counter Strike : Global Offensive,5
+User 46,Killing Floor,2
+User 46,Darwinia,3
+User 46,Uplink,4
+User 46,DEFCON,5
+User 46,Multiwinia,3
+User 46,Dangerous Waters,2
+User 46,Space Empires IV Deluxe,5
+User 46,Jagged Alliance 2,3
+User 46,Disciples II: Rise of the Elves,4
+User 46,Disciples II: Gallean's Return,3
+User 47,Counter Strike,3
+User 47,Day of Defeat,2
+User 47,Deathmatch Classic,2
+User 47,Half-Life : Opposing Force,4
+User 47,Ricochet,2
+User 47,Half-Life,2
+User 47,Counter Strike : Condition Zero,2
+User 47,Half-Life : Blue Shift,2
+User 47,Half-Life 2,4
+User 47,Half-Life 2 : Death Match,2
+User 47,Half-Life 2 : Lost Coast,2
+User 47,Left 4 Dead,4
+User 47,Left 4 Dead 2,4
+User 47,Counter Strike : Global Offensive,3
+User 48,Counter Strike,2
+User 48,Team Fortress Classic,3
+User 48,Day of Defeat,3
+User 48,Deathmatch Classic,3
+User 48,Half-Life : Opposing Force,4
+User 48,Ricochet,3
+User 48,Half-Life,3
+User 48,Counter Strike : Condition Zero,2
+User 48,Half-Life : Blue Shift,2
+User 48,Half-Life 2,4
+User 48,Counter Strike : Source,3
+User 48,Half-Life : Source,2
+User 48,Portal,3
+User 48,Team Fortress 2,5
+User 48,Left 4 Dead,4
+User 48,Left 4 Dead 2,4
+User 48,Dota 2,3
+User 48,Portal 2,5
+User 48,Alien Swarm,5
+User 48,Counter Strike : Global Offensive,2
+User 48,Killing Floor,5
+User 48,Disciples II: Rise of the Elves,4
+User 48,Disciples II: Gallean's Return,4
+User 48,Iron Warriors: T-72 Tank Command,3
+User 49,Counter Strike,4
+User 49,Half-Life,3
+User 49,Counter Strike : Condition Zero,4
+User 49,Half-Life 2,3
+User 49,Counter Strike : Source,3
+User 49,Portal,4
+User 49,Team Fortress 2,3
+User 49,Left 4 Dead,4
+User 49,Left 4 Dead 2,5
+User 49,Dota 2,5
+User 49,Portal 2,4
+User 49,Counter Strike : Global Offensive,4
+User 50,Counter Strike,3
+User 50,Counter Strike : Condition Zero,4
+User 50,Counter Strike : Source,2
+User 50,Dota 2,5
+User 50,Counter Strike : Global Offensive,2
+User 50,SiN Episodes: Emergence,1
+User 51,Counter Strike,4
+User 51,Team Fortress Classic,2
+User 51,Deathmatch Classic,2
+User 51,Counter Strike : Condition Zero,5
+User 51,Half-Life : Blue Shift,3
+User 51,Counter Strike : Source,5
+User 51,Half-Life 2 : Lost Coast,3
+User 51,Dota 2,4
+User 51,Counter Strike : Global Offensive,3
+User 51,Rag Doll Kunf Fu,2
+User 51,Uplink,2
+User 51,Jagged Alliance 2,1
+User 51,Disciples II: Gallean's Return,3
+User 52,Counter Strike,5
+User 52,Half-Life : Opposing Force,4
+User 52,Half-Life,4
+User 52,Counter Strike : Condition Zero,5
+User 52,Counter Strike : Source,5
+User 52,Portal,4
+User 52,Left 4 Dead,4
+User 52,Left 4 Dead 2,4
+User 52,Dota 2,5
+User 52,Portal 2,5
+User 52,Alien Swarm,2
+User 52,Counter Strike : Global Offensive,5
+User 53,Counter Strike,4
+User 53,Team Fortress Classic,4
+User 53,Day of Defeat,3
+User 53,Deathmatch Classic,2
+User 53,Half-Life : Opposing Force,4
+User 53,Ricochet,3
+User 53,Half-Life,4
+User 53,Counter Strike : Condition Zero,4
+User 53,Half-Life : Blue Shift,4
+User 53,Half-Life 2,4
+User 53,Counter Strike : Source,4
+User 53,Half-Life : Source,4
+User 53,Day of Defeat : Source,5
+User 53,Half-Life 2 : Death Match,4
+User 53,Half-Life 2 : Lost Coast,4
+User 53,Half-Life 2 : Episode 1,4
+User 53,Half-Life 2 : Episode 2,5
+User 53,Portal,3
+User 53,Team Fortress 2,5
+User 53,Left 4 Dead 2,4
+User 53,Dota 2,5
+User 53,Portal 2,4
+User 53,Alien Swarm,5
+User 53,Counter Strike : Global Offensive,4
+User 53,Rag Doll Kunf Fu,5
+User 53,Red Orchestra: Ostfront 41-45,2
+User 53,Killing Floor,4
+User 53,SiN Episodes: Emergence,2
+User 53,Darwinia,2
+User 53,Uplink,4
+User 53,DEFCON,4
+User 53,Multiwinia,5
+User 53,Dangerous Waters,3
+User 53,Space Empires IV Deluxe,2

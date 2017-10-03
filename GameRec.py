@@ -70,12 +70,15 @@ def main():
           
         recom_list = [recommend_item for recommend_item,recommend_item in rank]
         return recom_list[0:5]
-    
+   
     print ("GameRec\n")
     n=input("Enter User ")
     n1 = int(n)
-    print("\nRecommendations for User %d\n" % n1)
-    print(recommend('User %d' % n1))
+    if n1 > 53:
+        print("User ID does not exist")
+    else:
+        print("\nRecommendations for User %d\n" % n1)
+        print(recommend('User %d' % n1))
     
 if __name__ == '__main__':
     main()

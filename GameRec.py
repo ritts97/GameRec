@@ -74,7 +74,7 @@ def main():
     print ("GameRec\n")
     n=input("Enter User ")
     n1 = int(n)
-    if n1 > 53:
+    if n1 > len(dataset):
         print("User ID does not exist")
     else:
         print("\nRecommendations for User %d\n" % n1)

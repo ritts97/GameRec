@@ -72,7 +72,7 @@ def main():
         return recom_list[0:5]
    
     print ("GameRec\n")
-    n=input("Enter User ")
+    n=input("Enter User ID ")
     n1 = int(n)
     if n1 > len(dataset):
         print("User ID does not exist")

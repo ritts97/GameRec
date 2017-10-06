@@ -75,7 +75,7 @@ def main():
     n=input("Enter User ID ")
     n1 = int(n)
     if n1 > len(dataset):
-        print("User ID does not exist")
+        print("\nUser ID does not exist")
     else:
         print("\nRecommendations for User %d\n" % n1)
         print(recommend('User %d' % n1))

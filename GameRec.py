@@ -71,7 +71,7 @@ def main():
         recom_list = [recommend_item for recommend_item,recommend_item in rank]
         return recom_list[0:5]
    
-    print ("GameRec\n")
+    print ("\nGameRec")
     n=input("Enter User ID ")
     n1 = int(n)
     if n1 > len(dataset):
